@@ -1,6 +1,6 @@
 // components/Home.js
 import React from "react";
-import Banner from "../../common/banner/banner";
+import FullCarousel from "../../common/carousels/FullCarousel";
 import "./home.css";
 import Card from "../../common/card/Card";
 
@@ -9,7 +9,7 @@ function Home() {
     <div>
       <div className="home-banner-section">
         <div className="container">
-          <Banner />
+          <FullCarousel />
         </div>
       </div>
       <div className="top-course">
