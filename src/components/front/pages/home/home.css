@@ -1,0 +1,42 @@
+/* Home Page CSS */
+.home-banner-section {
+  background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+  padding: 150px 0;
+}
+.banner-heading {
+  color: #000;
+  font-size: 50px;
+  line-height: 52px;
+}
+
+.banner-description {
+  font-size: 24px;
+  line-height: 26px;
+  color: #000;
+  margin: 40px 0px;
+}
+
+.banner-button {
+  min-width: 130px;
+  padding: 0 33px;
+  height: 42px;
+  line-height: 36px;
+  border-radius: 42px;
+  font-size: 10px;
+  letter-spacing: 0.065em;
+  text-transform: uppercase;
+  font-weight: 700;
+  border: solid 1px #000;
+  background: #000;
+  color: #fff;
+  cursor: pointer;
+}
+.banner-button:hover {
+  background: transparent;
+  color: #000;
+}
+
+.banner-button:hover {
+  background: transparent;
+  color: #000;
+}
